@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
 
-TELEGRAM_TOKEN = '7357802712:AAG1fn_lhZ7WIJYliYMn1y0Xp45Hw21OAJI'
+TELEGRAM_TOKEN = 'Paste your telegram api token here'
 
 
 TYPING_INTERVAL = 0.2
